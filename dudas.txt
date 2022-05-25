@@ -1,0 +1,3 @@
+DUDAS.
+logos no funciona el space-around
+background color de header abarca toda la pagina
