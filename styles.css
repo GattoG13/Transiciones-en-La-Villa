@@ -130,12 +130,18 @@ header {
 }
 
 .subtitleh1-villa {
+    margin: 10px;
     font-size: 30px;
     font-style: italic;
 }
 
+.subtitleh1-villa:hover {
+    transform: scale(1.4) translateX(80px);
+    transition: all 1.5s;
+}
+
 .pharagraph-villaserrana-intro {
-    padding: 10px;
+    padding: 20px;
 }
 
 .imgslavilla-container {
@@ -151,7 +157,15 @@ header {
     height: 100%;
 }
 
+.interestpoints:hover {
+    padding-left: 20px;
+    transform: scale(1.3) translateX(80px);
+    transition: all 1.5s;
+}
+
 h2 {
+    padding-left: 10px;
+    margin: 5px;
     font-size: 30px;
     font-style: italic;
 }
