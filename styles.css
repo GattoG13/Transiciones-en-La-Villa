@@ -136,7 +136,7 @@ header {
 }
 
 .subtitleh1-villa:hover {
-    transform: scale(1.4) translateX(80px);
+    transform: scale(1.4) translateX(100px);
     transition: all 1.5s;
 }
 
